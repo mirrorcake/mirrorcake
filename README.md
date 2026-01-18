@@ -1,6 +1,6 @@
 
 
-![mirrorcake's Stats](https://github-readme-stats.vercel.app/api?username=mirrorcake&theme=default&show_icons=true&hide_border=true&count_private=true)
+![mirrorcake's Stats](https://github-readme-stats.vercel.app/api?username=mirrorcake&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=mirrorcake&color=brightgreen)
 <!--
